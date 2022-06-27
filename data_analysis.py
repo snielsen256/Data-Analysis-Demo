@@ -104,6 +104,7 @@ diff = [
 largest_diff = max(diff)
 largest_diff_index = diff.index(max(diff))
 
+# print result
 print(f"The largest difference in the US between two consecutive years: {largest_diff}, between 20{largest_diff_index} and 20{(largest_diff_index + 1)}.")
 
 

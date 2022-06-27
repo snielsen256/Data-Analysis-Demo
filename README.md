@@ -1,6 +1,6 @@
 # Overview
 
-This program analyses a dataset showing the the Sustainabl Development Report (SDR) values for 20 countries for the years 2000 - 2022.
+This program analyses a dataset showing the the Sustainable Development Report (SDR) values for 20 countries for the years 2000 - 2022.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -27,3 +27,6 @@ This program analyses a dataset showing the the Sustainabl Development Report (S
 * [Finding the index of the largest number in an array](https://stackoverflow.com/questions/27755867/returning-the-index-of-the-largest-element-in-an-array-in-python)
 
 # Future Work
+
+* Adding graphs to compare each country's SDR (altair package)
+* Make the target country (in question 2) interchangeable
